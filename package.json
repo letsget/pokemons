@@ -1,6 +1,6 @@
 {
-  "name": "users-list",
-  "website": "https://chernyshevanetology.github.io/test-assignment/",
+  "name": "pokemons",
+  "website": "https://pokemons-for-kode.000webhostapp.com/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
